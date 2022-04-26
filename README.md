@@ -9,15 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/saraswat_uday1" target="blank"><img src="https://img.shields.io/twitter/follow/saraswat_uday1?logo=twitter&style=for-the-badge" alt="saraswat_uday1" /></a> </p>
 
-- 🌱 I’m currently learning **Jest Framework for React Testing.**
+- 🌱 I’m currently learning : **Jest Framework for React Testing.**
 
-- 💬 Ask me about **Java, MongoDB, Microservices, Spring Boot, etc**
+- 💬 Ask me about : **Java, MongoDB, Microservices, Spring Boot, etc**
 
-- 📫 How to reach me **in.udaysaraswat@gmail.com**
+- 📫 How to reach me : **in.udaysaraswat@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Mcb_zYNMOu4ty5ZEe43Fh9NgnOJ8NLnN/view?usp=sharing](https://drive.google.com/file/d/1Mcb_zYNMOu4ty5ZEe43Fh9NgnOJ8NLnN/view?usp=sharing)
+- 📄 Know about my experiences : [https://drive.google.com/file/d/1Mcb_zYNMOu4ty5ZEe43Fh9NgnOJ8NLnN/view?usp=sharing](https://drive.google.com/file/d/1Mcb_zYNMOu4ty5ZEe43Fh9NgnOJ8NLnN/view?usp=sharing)
 
-- ⚡ Fun fact **I like to play football**
+- ⚡ Fun fact : **I like to play football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
