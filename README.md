@@ -1,4 +1,4 @@
-![MasterHead](https://media.istockphoto.com/vectors/software-engineering-banner-and-icons-vector-id636526232)
+![MasterHead](https://www.linkpicture.com/q/Capture_995.png)
 
 <h1 align="center">Hi 👋, I'm Uday Saraswat</h1>
 <h3 align="center">A passionate Java Full Stack Angular / React developer from India</h3>
