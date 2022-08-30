@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning : **Jest Framework for React Testing.**
+- 🌱 I’m currently learning : **SQL SERVER MANAGEMENT.**
 
 - 💬 Ask me about : **Java, MongoDB, Microservices, Spring Boot, etc**
 
