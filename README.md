@@ -14,9 +14,8 @@
 
 - 📫 How to reach me : **in.udaysaraswat@gmail.com**
 
-- 📄 Know about my experiences :https://drive.google.com/file/d/1VOCLbawovTs6XKK1MZpCPHzSNZWtsAmK/view?usp=sharing
-
-- ⚡ Fun fact : **I like to play football**
+- 📄 Know about my experiences : https://drive.google.com/file/d/1ZChvDvwEQHBwbDsGHuEVZB0AYohfpwYT/view?usp=drive_link
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
